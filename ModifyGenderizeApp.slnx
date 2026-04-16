@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ModifyGenderizeApp.Domain/ModifyGenderizeApp.Domain.csproj" />
+  <Project Path="ModifyGenderizeApp.Services/ModifyGenderizeApp.Services.csproj" />
+  <Project Path="ModifyGenderizeApp/ModifyGenderizeApp.csproj" />
+</Solution>
